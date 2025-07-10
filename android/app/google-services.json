@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684510713618",
+    "project_id": "ekspedisisinarjaya",
+    "storage_bucket": "ekspedisisinarjaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684510713618:android:dbe886d232f7b4752405cb",
+        "android_client_info": {
+          "package_name": "com.example.app_projekskripsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSepJS-Bsg50e-r0h7PSOsR8yOvpIibhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
