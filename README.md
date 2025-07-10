@@ -1,16 +1,31 @@
-# app_projekskripsi
+# Ekspedisi Sinar Jaya - Logistics Management System
 
-A new Flutter project.
+[![GitHub License](https://img.shields.io/github/license/ToniAriyantoPutra/Ekspedisi-Sinar-jaya)](LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/ToniAriyantoPutra/Ekspedisi-Sinar-jaya)](https://github.com/ToniAriyantoPutra/Ekspedisi-Sinar-jaya/issues)
 
-## Getting Started
+A PHP-based logistics management system for handling expedition operations, shipping management, and transaction tracking.
 
-This project is a starting point for a Flutter application.
+![Dashboard Preview](https://github.com/ToniAriyantoPutra/Ekspedisi-Sinar-jaya/raw/main/screenshots/dashboard.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Shipment Management**: Create, track, and manage shipping orders
+- **Customer Database**: Store customer information and shipping history
+- **Transaction Processing**: Handle payments and invoices
+- **Reporting System**: Generate operational reports and financial statements
+- **Multi-user Access**: Role-based access control (Admin, Staff, Customer)
+- **Route Management**: Configure delivery routes and pricing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Frontend**: Bootstrap, JavaScript, jQuery
+- **Backend**: PHP Native (Procedural)
+- **Database**: MySQL
+- **Server**: XAMPP/Apache
+- **Dependencies**: DataTables, Chart.js, Select2
+
+## Installation Guide
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ToniAriyantoPutra/Ekspedisi-Sinar-jaya.git
