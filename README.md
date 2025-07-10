@@ -1,1 +1,0 @@
-# Ekspedisi-Sinar-jaya
